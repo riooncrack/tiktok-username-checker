@@ -1,3 +1,4 @@
+CREDITS TO NIGHTFALLGT I MODIFIED IT OFF OF HIS
 This is used to check if an username is available or not and if its available it will
 send it to your discord webhook, you can also select the speed you want it to check at too
 remember this will not always be accurate because it doesn't use an Tiktok Api
