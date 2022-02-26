@@ -2,9 +2,9 @@ from urllib import response
 import requests
 import time
 
-Url = "https://discord.com/api/webhooks/944854069577662584/SZ2CWWD0zNMtdP_wzqsmOoV2FLyxRErnx2cJ0jecGeQqH2c-unPHPbBwTUPqZP3xn_ay"
+Url = "webhookgoeshere"
 
-wait_time = 5
+wait_time = 3
 
 def check(username):
     response = requests.head(f"https://www.tiktok.com/@{username}")
