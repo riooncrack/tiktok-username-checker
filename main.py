@@ -2,7 +2,7 @@ from urllib import response
 import requests
 import time
 
-Url = "webhookgoeshere"
+Url = "webhookhere"
 
 wait_time = 3
 
